@@ -15,8 +15,8 @@ Our mobile banking app provides an intuitive and user-friendly experience for ma
 ✅ Secure **Biometric Authentication** (Fingerprint & Face ID)  
 ✅ Multi-language support (including dynamic theme switching)  
 ✅ Real-time **Currency Exchange & Conversion**  
-✅ Advanced **Transaction History & Filtering**  
-✅ Seamless **Money Transfers & Bill Payments**  
+✅ Advanced **Transaction History**  
+✅ Seamless **Money Transfers**  
 ✅ **Offline Mode** for basic functionality  
 ✅ Secure **Token-based Authentication**  
 ✅ Smooth animations for a better user experience  
